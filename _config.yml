@@ -2,6 +2,7 @@ name: www.timothyjohnson.com
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.25292
+title: timothyjohnson
 cta:
   domain: null
   bucket: null
