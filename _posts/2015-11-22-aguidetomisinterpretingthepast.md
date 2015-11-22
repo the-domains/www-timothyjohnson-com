@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T21:03:23.379Z'
-dateModified: '2015-11-22T21:02:40.555Z'
+datePublished: '2015-11-22T21:09:21.698Z'
+dateModified: '2015-11-22T21:03:23.379Z'
 title: '{aguidetomisinterpretingthepast}'
 author: []
 authors: []
