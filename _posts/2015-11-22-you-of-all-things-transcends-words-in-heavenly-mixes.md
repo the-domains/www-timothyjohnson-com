@@ -1,17 +1,9 @@
 ---
-author:
-  - name: Jackson Cooper
-    url: 'https://www.icareifyoulisten.com/author/jackson/'
-    avatar: {}
-  - name: ''
-    url: null
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.icareifyoulisten.com'
-  name: I CARE IF YOU LISTEN
-  favicon: 'https://www.icareifyoulisten.com/wp-content/uploads/2015/01/iciyl-logo-favicon.jpg'
-  domain: www.icareifyoulisten.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - landau
   - album
@@ -24,17 +16,27 @@ keywords:
   - tholl
   - lowenstein
 description: "In Lars von Trier's film Breaking the Waves, the heroine, after traumatic emotional turmoil, stands at the shoreline of an ocean hearing the chimes from heaven above. They beckon her to be relieved of the harsh world and to a place of eternal bliss. Gone are the days of concept albums. Remember?"
-inLanguage: en
+datePublished: '2015-11-22T16:20:09.484Z'
+dateModified: '2015-11-22T16:20:04.956Z'
+author:
+  - name: Jackson Cooper
+    url: 'https://www.icareifyoulisten.com/author/jackson/'
+    avatar: {}
+  - name: ''
+    url: null
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.icareifyoulisten.com/2015/11/you-of-all-things-transcends-words-heavenly-mixes/'
 title: you of all things Transcends Words in Heavenly Mixes
-datePublished: '2015-11-22T16:19:36.793Z'
-dateModified: '2015-11-22T16:19:16.506Z'
 sourcePath: _posts/2015-11-22-you-of-all-things-transcends-words-in-heavenly-mixes.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: I CARE IF YOU LISTEN
+  domain: www.icareifyoulisten.com
+  url: 'https://www.icareifyoulisten.com'
+  favicon: 'https://www.icareifyoulisten.com/wp-content/uploads/2015/01/iciyl-logo-favicon.jpg'
+url: you-of-all-things-transcends-words-in-heavenly-mixes/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
