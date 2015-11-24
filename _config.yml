@@ -1,6 +1,6 @@
 name: www.timothyjohnson.com
 favicon: null
-layout_spectrum: 0.7571
+layout_spectrum: 0.00068
 typography_spectrum: 0.25292
 title: timothyjohnson
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#67756b'
-    - '#425051'
-    - '#000000'
-    - '#8d8973'
-    - '#bdb08b'
+    - '#ffffff'
+    - '#8ebceb'
+    - '#a69b90'
+    - '#6d6257'
+    - '#33391d'
   brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
